@@ -6,5 +6,5 @@ npm install
 npm start  
   
 client  
-npm install
+npm install  
 npm start
